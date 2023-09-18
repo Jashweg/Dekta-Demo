@@ -1,2 +1,2 @@
-# Dekta-Demo
+# Delta-Demo
 This Is My First File
